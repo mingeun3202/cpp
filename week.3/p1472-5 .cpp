@@ -1,5 +1,5 @@
 #include <iostream>
-#include "Reverse.h"
+#include "p1472-5h"
 
 using namespace std;
 
